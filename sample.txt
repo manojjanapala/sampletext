@@ -1,8 +1,8 @@
 this is manoj janapala
 located at kurnool
-<<<<<<< HEAD
-address:29-152-12-4,sai aprt
-=======
+
 fathers name is srinivasa reddy
 mother name is sujatha
->>>>>>> 4fac518472a577886cefa2d339ac852434106501
+address:29-152-12-4,sai aprt
+
+
